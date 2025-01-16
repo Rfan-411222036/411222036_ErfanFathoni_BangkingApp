@@ -79,7 +79,7 @@
                     android:textStyle="bold"
                     android:textSize="30dp"
                     android:gravity="center"
-                    android:textColor="@color/genel"
+                    android:textColor="@color/penel"
                     >
 
                 </TextView>

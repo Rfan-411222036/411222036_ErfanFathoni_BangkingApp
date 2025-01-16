@@ -10,7 +10,7 @@
         android:id="@+id/layout_user_profile"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/genel"
+        android:background="@color/penel"
 
         android:orientation="horizontal"
         android:padding="10dp"
@@ -22,7 +22,7 @@
 
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/icon_bank_whiteback">
+            android:background="@drawable/icon_bank_whiteblack">
 
         </ImageView>
 
@@ -63,7 +63,7 @@
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:background="@drawable/icon_dolar"
+                android:background="@drawable/icon_dollar"
                 android:layout_gravity="center"></ImageView>
 
             <TextView

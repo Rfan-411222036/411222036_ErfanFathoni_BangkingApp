@@ -113,7 +113,7 @@
                         android:textStyle="bold"
                         android:textSize="20dp"
                         android:gravity="center"
-                        android:textColor="@color/genel"
+                        android:textColor="@color/penel"
                         >
 
                     </TextView>
